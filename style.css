@@ -1,0 +1,161 @@
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: sans-serif;
+}
+
+main{
+    width: 1000px;
+    position: absolute;
+    top: 130px;
+    left: 20px;
+    background-color: #EAECEE;
+}
+
+article {
+    border-style: groove;
+}
+
+#artigo {
+    margin: 10px;
+    line-height: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+aside {
+    position: absolute;
+    top: 130px;
+    left: 1050px;
+    width: 250px;
+    height: 400px;
+    border-style: groove;
+    border-color: #EAECEE;
+    margin-left: 5px;
+    background-color: #EAECEE;
+}
+
+#asd {
+    margin-left: 12px;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: #229954;
+    background-position: -50% 68%;
+}
+
+#logo {
+    position: absolute;
+    top: 15px;
+    left: 1050px;
+}
+
+#logoXP {
+    position: absolute;
+    top: 41px;
+    left: 1150px;
+}
+
+#minha_foto {
+    position: absolute;
+    top: 39px;
+    left: 60px;
+    border: 2px solid white;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+#titulo {
+    position: absolute;
+    left: 200px;
+    top: -3px;
+    font-family: 'sans-serif';
+    font-size: 35px;
+    color: white;
+}
+
+#menu {
+    position: absolute;
+    top: 70px;
+    left: 90px;
+    right: 0;
+    height:28px ;
+    padding-left: 50px;
+    padding-top: 5px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: ;
+    background-color: #7F8C8D;
+    z-index: -1;
+}
+
+.menutag {
+    position: static;
+    top: 74px;
+    color: #616A6B;
+}
+
+.menuItems {
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.titulo {
+    font-size: 16px;
+
+    margin: 10px;
+}
+
+.lado-esquerdo {
+    position: absolute;
+    top: 280px;
+    left: 20px;
+    background-color: #EAECEE;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    padding-right: 150px; 
+    margin
+    
+}
+
+.lado-direito {
+    position: absolute;
+    top: 280px;
+    left: 615px;
+    background-color: #EAECEE;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    padding-right: 150px; 
+    
+
+}
+
+#rodape {
+    position: fixed;
+    bottom: 0px;
+
+    left: 0;
+    right: 0;
+    height: 25px;
+
+    color: white;
+    background-color: #229954;
+}
+
+ #alignftr {
+    position: absolute;
+    padding-top: 3px;
+    padding-left: 5px;
+} 
